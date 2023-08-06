@@ -12,5 +12,7 @@
 ### Start the server:
 `npm start`
 
+<img width="1437" alt="screen" src="https://github.com/khadijagardezi/Data-Grid/assets/41299669/1c4ecc20-f024-4925-af8f-18df24dbdb9d">
+
 
 Go to http://localhost:3000 to see the DataGrid on your screen.
